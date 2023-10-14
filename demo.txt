@@ -1,0 +1,11 @@
+Flask @ file:///C:/ci_311/flask_1676436667658/work
+numpy==1.25.2
+numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
+Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
+tensorflow==2.14.0
+tensorflow-estimator==2.14.0
+tensorflow-intel==2.14.0
+tensorflow-io-gcs-filesystem==0.31.0
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+keras==2.14.0

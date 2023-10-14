@@ -8,6 +8,8 @@ from tensorflow.keras.models import load_model
 
 app=Flask(__name__)
 
+
+
 @app.route('/',methods=['GET'])
 def hello_world():
     return render_template('index.html')
